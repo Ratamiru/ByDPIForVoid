@@ -1,0 +1,9 @@
+[Desktop Entry]
+Type=Application
+Name=ByeDPI × TG
+Comment=Обход DPI для браузера и прокси для Telegram
+Exec=@BIN@/byedpi-tg
+Icon=network-vpn
+Terminal=false
+Categories=Network;
+StartupWMClass=byedpi-tg
